@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/kuldeeppatel143"><img src="https://api.daily.dev/devcards/14c8ca9e95b541769aac47a17ce70c0e.png?r=k3m" width="400" alt="Pate Kuldeepkumar Sureshkumar's Dev Card"/></a>
 <!--
 **KuldeepPatel1439/KuldeepPatel1439** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
